@@ -23,6 +23,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tinir_ks
 github_username:  kirstin
 
+encoding: utf-8
+
 # Build settings
 markdown: kramdown
 theme: minimal-mistakes-jekyll
