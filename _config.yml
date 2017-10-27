@@ -84,10 +84,11 @@ kramdown:
   enable_coderay: false
 
 #Collections
-# collections:
-#   pages:
-#     output: true
-#     permalink: /:path/
+collections:
+  scham:
+    output: true
+    permalink: /:collection/:path/
+    title: Scham
 
 defaults:
   # _posts
@@ -108,6 +109,17 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _scham
+  - scope:
+      path: ""
+      type: scham
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      comments: false
+      sidebar:
+        nav: "scham"
 
 # Sass/SCSS
 sass:
