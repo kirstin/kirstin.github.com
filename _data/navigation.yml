@@ -1,4 +1,4 @@
-# main links
+## main links
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
@@ -17,3 +17,9 @@ main:
 scham:
   - title: "Quellen"
     url: /scham/quellen
+  - title: "Quellendiskussionen"
+    children:
+    - title: "Trumping Shame"
+      url: /scham/trumping_shame/
+    - title: "Regulate Shame"
+      url: /scham/regulate_shame/

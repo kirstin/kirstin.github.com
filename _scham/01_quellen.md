@@ -6,7 +6,7 @@ modified: 2017-10-26T12:30:00-04:00
 ---
 
 ## Wissenschaftliche Artikel  
-[Are Shame, Guilt and Embarassment Distinct Emotions? *June Prince Tangney, Rowland S. Miller, Laura Flicker and Deborah Hill Barlow*](https://s3.amazonaws.com/academia.edu.documents/40110437/Are_Shame_Guilt_and_Embarrassment_Distin20151117-6498-1plpegx.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1508704166&Signature=VJesOWeBSTDICMFSu%2BR9%2B2z%2FdYs%3D&response-content-disposition=inline%3B%20filename%3DAre_shame_guilt_and_embarrassment_distin.pdf)  
+[Are Shame, Guilt and Embarassment Distinct Emotions? *June Prince Tangney, Rowland S. Miller, Laura Flicker and Deborah Hill Barlow.* 1996](https://s3.amazonaws.com/academia.edu.documents/40110437/Are_Shame_Guilt_and_Embarrassment_Distin20151117-6498-1plpegx.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1508704166&Signature=VJesOWeBSTDICMFSu%2BR9%2B2z%2FdYs%3D&response-content-disposition=inline%3B%20filename%3DAre_shame_guilt_and_embarrassment_distin.pdf)  
 [Moral Affect: The Good, the Bad and the Ugly. *June Prince Tangney.* 1991](https://www.researchgate.net/profile/June_Tangney/publication/21194658_Moral_Affect_The_Good_the_Bad_and_the_Ugly/links/57437bd208ae298602f0f075/Moral-Affect-The-Good-the-Bad-and-the-Ugly.pdf)  
 [Shame and Conformity: The Deference-Emotion System. *Thomas J. Scheff.* 1988](http://www.exzellentforschen.de/(en)/ZIF/FG/2004Emotions/members/Scheff-Shame+Conformity.pdf)  
 [Compassionate Mind Training for People with High Shame and Self-Criticism: Overview and Pilot Study of a Group Therapy Approach. *Paul Gilbert and Sue Procter.* 2006](https://compassionatemind.co.uk/uploads/files/compassion-group-therapy-paper.pdf)  
@@ -24,6 +24,6 @@ modified: 2017-10-26T12:30:00-04:00
 
 
 ## Webseiten
-[Healing Shame by *Bret Lyon and Sheila Rubin*](http://www.healingshame.com/)  
+[Healing Shame by *Bret Lyon and Sheila Rubin*](http://www.healingshame.com/resources.html)  
 [What makes emotional trauma? Fear, disconnection and shame](http://theattachedfamily.com/membersonly/?article=understanding-and-healing-emotional-trauma-interview-with-daniela-sieff-phd)
 
