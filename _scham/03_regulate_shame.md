@@ -9,7 +9,7 @@ modified: 2017-10-28T13:30:00-04:00
 ---
 
 Dieses Paper wurde im Gegensatz zu vielen anderen von Europäern verfasst.
-In diesem Fall Menschen aus Belgien.  
+In diesem Fall von Menschen aus Belgien.  
 Es wurde 2008 veröffentlicht.
 
 ### Zusammenfassung des Inhalts
@@ -33,18 +33,18 @@ EI scheint dazu beizutragen, dass die emotionale Regulation besser funktioniert.
 
 
 ### Meine Gedanken dazu
-Am Ende des Artikels greifen die Autoren einige der Punkte auf, die ich auch für kritisch erachte.
+Am Ende des Artikels greifen die Autoren einige der Punkte auf, die ich auch kritisch betrachte.
 So wurden für die Studie Studenten befragt, die zum einen jung und zum anderen größtenteils weiblich waren.
 Es stellt sich also die Frage in wiefern die Ergebnisse auf einen größeren Teil der Bevölkerung übertragbar sind.
 Außerdem sind die Ergebnisse durch Fragebögen ermittelt worden und die Ergebnisse basieren demnach auf Selbstaussagen der Teilnehmer.
 Diese sind anfällig für verschiedene Verschiebungen.
 
-Ich denke Grundsätzlich, dass die unter "Emotionale Intelligenz" subsummierten Fähigkeiten zur emotionalen Regulation beitragen. 
+Ich denke grundsätzlich, dass die unter "Emotionale Intelligenz" subsummierten Fähigkeiten zur emotionalen Regulation beitragen. 
 Gleichzeitig lässt dies vollkommen außer Acht, wie diese emotionale Intelligenz erworben wird oder welche Ereignisse eventuell zur Blockierung geführt haben.
 Eventuell ist die als "Emotionale Intelligenz" bezeichnete Fähigkeit sehr abhängig von anderen Faktoren, sodass sie mehr ein Symptom statt einer Ursache 
 für die beschriebenen Phänomene ist.
 
 Ich denke, es ist in jedem Fall hilfreich sich bewusst mit seinen eigenen Gefühlen auseinanderzusetzen. Sich selbst zu beobachten und zu werten, inwiefern das eigene 
 Verhalten zum Wohlbefinden beiträgt, oder auch nicht.
-Auf dieser Grundlage können Menschen ihre eigenen krankhaften Handlungsmuster erkennen und neue Strategien finden, die ihnen besser dienen.
+Auf dieser Grundlage können Menschen ihre eigenen, krankhaften Handlungsmuster erkennen und neue Strategien finden, die ihnen besser dienen.
 Vielleicht erwächst aus dieser Praxis dann irgendwann etwas, das man als "Emotionale Intelligenz" bezeichnen kann.

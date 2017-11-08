@@ -6,4 +6,4 @@ layout: splash
 permalink: /
 ---
 
-[About](/about/)
+[Backlog](/backlog/)
