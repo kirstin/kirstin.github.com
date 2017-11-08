@@ -65,7 +65,7 @@ Leys kritisiert die Gegenüberstellung von Körper und Geist/Verstand/Bewusstsei
 
 
 #### Aus dem Blauen heraus
-In einer Untersuchung an einem Mädchen mit Epilepsie haben die Ärzte eine Hirnregiongefunden, die bei Stimulation das Mädchen unwillkürlich lachen ließ. Wenn das Mädchen gefragt wurde, weshalb sie lache, gab sie Gründe aus dem Kontext an ("Das pfert ist lustig", "ihr seid so lustig wie ihr herumsteht"...).
+In einer Untersuchung an einem Mädchen mit Epilepsie haben die Ärzte eine Hirnregion gefunden, die bei Stimulation das Mädchen unwillkürlich lachen ließ. Wenn das Mädchen gefragt wurde, weshalb sie lache, gab sie Gründe aus dem Kontext an ("Das Pferd ist lustig", "ihr seid so lustig wie ihr herumsteht"...).
 
 Leys kritisiert hier, dass das Mädchen im Nachhinein nach Rationalisierungen für ihr Lachen gefragt wurde. Für Damasio und andere Autoren die über dieses Experiment geschrieben haben meint Leys zeigt es, dass Emotionen keine Intention haben und nichts mit dem Stimulus zu tun haben. Sie leht dies ab, da ihr sehr wichtig ist, dass Emotionen etwas mit den Geschehnissen in userer Welt zu tun haben.
 
