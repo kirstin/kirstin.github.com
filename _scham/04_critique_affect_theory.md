@@ -7,9 +7,29 @@ modified: 2017-11-07T10:00:00-04:00
 ---
 
 ### Über Affekttheorie
+*Affekt* ist ein Wort, das von vielen psychologischen Theoretikern sehr unterschiedlich verwendet wurde.
+
+Die Art wie ich *Affekt* gerne verwenden möchte und wie es auch weitestgehend in diesem Text verwendet wird, entspricht der Verwendung des Wortes von Silvan Tomkins. Auf der Seite des Tomkins Instituts gibt es eine [Definition](http://www.tomkins.org/what-tomkins-said/introduction/nine-affects-present-at-birth-combine-to-form-emotion-mood-and-personality/) zu Affekt, Gefühl und Emotion (und Skript und Persönlichkeit, aber diese sind im Moment nicht so wichtig).
+Dort heißt es übersetzt:  
+
+- **Affekt** ist die angeborene, biologische Antwort auf das Ansteigen, Abfallen oder die persistene Intensität von neuronaler Aktivität (neuronales Feuern). Das Ergebnis sind ein bestimmtes Gefühl, mimischer und körperlicher Ausdruck und Hautveränderungen. Affekte fühlen sich auf ihre eigene Weise belohnend, bestrafend oder neutral an. Affekt macht Dinge dringlich.
+- Die Bewusstheit über einen Affekt ist ein **Gefühl**.
+- Ein Gefühl plus Erinnerungen an frühere ähnliche Gefühle ist eine **Emotion**.
+- Häufig entwickeln wir aus einem Bewusstsein heraus "Regeln", die den Zweck haben sollen mehr positive und weniger negative Affekte zu haben. Tomkins nennt diese Regeln **Skripte**.
+- Das Muster der Skripte, die eine Person benutzt um ihre Affekte zu regulieren, macht die **Persönlichkeit** aus.
+
+Affekte dienen laut Tomkins (biologisch/evolutionär...) dem Zweck unsere Aufmerksamkeit auf etwas zu lenken und uns zum Handeln zu motivieren. Affekte sind nicht das selbe, wie Emotionen, sie sind das biologische System, das Emotionen zu Grunde liegt. Affekte sind laut Tomkins analog zu ihrem Stimulus und verstärken ihn. Jeder Affekt kann einen anderen Affekt, einen Trieb oder irgendeinen mentalen Vorgang oder Erfahrung verstärken. Affekte können miteinander kombiniert werden.
+
+In der deutschen Wikipedia findet sich im [Artikel von Silvan Tomkins](https://de.wikipedia.org/wiki/Silvan_Tomkins) eine kurze Erwähnung der Affekttheorie von Tomkins.  
+In dem dort refernzierten Abschnitt [Affekttheorie](https://de.wikipedia.org/wiki/Psychoanalyse#Affekttheorie) aus dem Artikel zu Psychoanalyse findet sich keine weitere Referenz zu Tomkins. Tatsächlich basiert das Verständnis von *Affekt* hier eher auf den Ideen von Freud.  
+Auch im Artikel [Affekt](https://de.wikipedia.org/wiki/Affekt) gibt es keine Referenz auf Tomkins. Allerdings wird Darwin als wichtiger Vorgänger von Tomkins genannt, sowie Paul Ekman, der sein Schüler war. Im allgemeinen wird Affekt hier anders definiert als von Tomkins. Hier wird Affekt eher als *heftige Gemütsbewegung* verstanden, während dies bei Tomkins nicht unbedingt der Fall sein muss.
+Das Affektsystem nach Krause passt zur Affekttheorie von Tomkins bezüglich der "Reihnfolge": erst Affekt, durch Bewusstheit Gefühl, durch Erinnerungen, Verbalisierung etc. Empathie(bei Tomkins Emotion). Abgesehn davon hat der Artikel zu Affekt leider wenig Bezug zu Tomkins Affekttheorie. Meiner Meinung nach werden in diesem Artikel verschiedene Ideen vermischt. Während einerseits das Modell von Krause vorgestellt wird, bei dem ein Affekt erst durch Bewusstheit zu einem Gefühl wird, wird an anderer Stelle Affekt als *ein besonders intensiv erlebtes Gefühl* beschrieben. Das ist widersprüchlich. Bei Tomkins haben *Affekte* nichts mit *Trieben* zu tun. Laut Tomkins haben die Affekte kein Ziel. Sie sind stattdessen Ausdruck des inneren Erlebens. Im deutschen Wikipediaartikel zu Affekt werden Affekte als Teil eines Triebs betrachtet, der ein bestimmtes Ziel oder einen Zweck verfolgt. Es fehlt eine kritische Reflektion über die Verwendung des Begriffs.
+
+
+Im Folgenden betrachte ich einen Artikel, der diese Affekttheorie (bzw. Abwandlungen dieser von anderen Autoren) kritisch diskutiert.
 
 ### Zusammenfassung des Inhalts
-*Quelle: ["The Turn to Affect: A Critique" by Ruth Leys](https://www.jstor.org/stable/10.1086/659353?seq=2#page_scan_tab_contents)*
+*Quelle: ["The Turn to Affect: A Critique" by Ruth Leys](https://www.jstor.org/stable/10.1086/659353?seq=1#page_scan_tab_contents)*
 
 
 Leys argumentiert, dass andere Autoren meinen die Affekte kämen vor der Ideologie (vor Absichten, Bedeutungen, Gründen und Glaubenssätzen), da sie automatische Prozesse sind, die unterhalb der Schwelle des Bewusstseins ablaufen und müssten deshalb unabhängig betrachtet werden. Sie meint für die Affekttheoretiker seien Affekte "unmenschliche", "vor-subjektive", "instiktive" Kräfte, die unser Denken und unsere Urteile/Bewertungen beeinflussen, aber getrennt von diesen sind. Affekte seien nicht-kognitive, körperliche Prozesse oder Zustände, sie seien "unreduzierbar körperlich und autonom".  
@@ -106,3 +126,13 @@ Außerdem erscheit es mir vollkommen logisch, dass wir im Anschluss an emotional
 Ich denke sogar, dass Affekte oder unbewusste emotionale Reaktionen unser Handeln und Denken beeinflussen und dass uns dies nicht immer bewusst ist.  
 Dennoch glaube ich, dass es erstens möglich ist, sich darüber bewusst zu werden und außerdem dies nicht alles ist. Der Inhalt und inwiefern dieser zu unseren Überzeugungen passt hat ebenso Einfluss wie der "Emotionale Subtext".  
 Wenn wir nur Maschinen wären, die auf Stimuli (immer gleichartig) reagieren, dann würden wir doch alle gleich reagieren? Aber dem ist nicht so. Es gibt also definitiv andere Einflussfaktoren, was aber nicht bedeutet es gäbe so etwas wie Affekte nicht.
+
+** In der deutschen Wikipedia** sowie in diesem Artikel, der Affekttheorie kritisiert zeigt sich meiner Meinung nach eine ähnliche Vorstellung/Grundeinstellung.
+Es scheint ein wenig damit zu tun haben, wie sehr man dem anhängt, was Freud gesagt hat und was seine Theorien waren.  
+Bei Freud werden *Triebe* beschrieben, die eine Affekt- und eine Vorstellungsdimension haben. Hier sind Affekte also eng mit Gedanken, Absichten, Vorstellungen oder Wünschen verbunden. Der Ausdruck des Affekts selbst könnte also zielgerichtet sein oder einen Zweck verfolgen (vllt. dass andere mich verstehen?).  
+Im Gegensatz dazu sind bei Tomkins die Affekte nicht Ausdruck eines Wunsches oder Ziels sondern vielmehr des inneren Erlebens. Der Ausdruck und das erleben der Affekte passiert unwillkürlich und weder zielgerichtet noch zweckbestimmt. Die Bedeutung der Affekte und ihre vermeintlichen Auslöser werden erst im Nachhinein bestimmt.   
+Ich kann anchvollziehen, dass dieser Ansatz nicht gut passt, wenn man eher den Ideen Freuds anhängt.  
+Für mich ist klar, dass Affekte mit der Außenwelt zu tun haben. Was allerdings nicht bedeutet, dass wir immer die 'richtige' Erklärung im Außen finden. Gleichzeitig können auch Affekte durch Gedanken ausgelöst werden. Weshalb sollte das nicht möglich sein? 
+
+Ich mag an den Ideen und der Theorie zu Affekten von Tomkins, dass Affekte eben nicht an Vorstellungen geknüpft sind. Die Affekte wurden bereits bei Babies beobachtet und ich denke Babies verfolgen selten einen Zweck oder ein Ziel indem sie zum Beispiel weinen. Ich denke das Weinen ist Ausdruck dessen, was sie erleben und kein Versuch der Manipulation der Eltern. Ich gebe zu, dass ich Freud nicht intensiv studiert habe, unter anderem auch, weil mir viele seiner Ideen nicht zusagen. So zum Beispiel auch, was Freud Babies alles understellt mit ödipalem Begehren und ähnlichem.  
+Außerdem mag ich an den Ideen Tomkins, dass sie nicht behavioristisch sind. Affekte haben nicht nur einen einzigen Ausgang oder Ausdruck. Ich verstehe darunter, dass das erleben eines Affekts oft zu sehr unterschiedlichem Verhalten führt.
