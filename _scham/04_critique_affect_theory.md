@@ -9,7 +9,7 @@ modified: 2017-11-07T10:00:00-04:00
 ### Über Affekttheorie
 *Affekt* ist ein Wort, das von vielen psychologischen Theoretikern sehr unterschiedlich verwendet wurde.
 
-Die Art wie ich *Affekt* gerne verwenden möchte und wie es auch weitestgehend in diesem Text verwendet wird, entspricht der Verwendung des Wortes von Silvan Tomkins. Auf der Seite des Tomkins Instituts gibt es eine [Definition](http://www.tomkins.org/what-tomkins-said/introduction/nine-affects-present-at-birth-combine-to-form-emotion-mood-and-personality/) zu Affekt, Gefühl und Emotion (und Skript und Persönlichkeit, aber diese sind im Moment nicht so wichtig).
+Die Art wie ich *Affekt* gerne verwenden möchte und wie es auch weitestgehend in dem Text, den ich diskutieren möchte, verwendet wird, entspricht der Verwendung des Wortes von Silvan Tomkins. Auf der Seite des Tomkins Instituts gibt es eine [Definition](http://www.tomkins.org/what-tomkins-said/introduction/nine-affects-present-at-birth-combine-to-form-emotion-mood-and-personality/) zu Affekt, Gefühl und Emotion (und Skript und Persönlichkeit, aber diese sind im Moment nicht so wichtig).
 Dort heißt es übersetzt:  
 
 - **Affekt** ist die angeborene, biologische Antwort auf das Ansteigen, Abfallen oder die persistene Intensität von neuronaler Aktivität (neuronales Feuern). Das Ergebnis sind ein bestimmtes Gefühl, mimischer und körperlicher Ausdruck und Hautveränderungen. Affekte fühlen sich auf ihre eigene Weise belohnend, bestrafend oder neutral an. Affekt macht Dinge dringlich.
