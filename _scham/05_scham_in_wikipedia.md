@@ -15,7 +15,7 @@ Auch auf Wikipedia sind die Artikel zu Scham auf Deutsch und auf Englisch sehr u
 [Schamgefühl vom 18.07.2017](https://de.wikipedia.org/w/index.php?title=Schamgef%C3%BChl&oldid=167383585)  
 
 Außerdem betrachte ich die Einträge im Wiktionary:  
-[Shame](https://en.wiktionary.org/w/index.php?title=shame&oldid=48005646)
+[Shame](https://en.wiktionary.org/w/index.php?title=shame&oldid=48005646)  
 [Scham](https://de.wiktionary.org/w/index.php?title=Scham&oldid=6012616)
 
 ## Wortherkunft
